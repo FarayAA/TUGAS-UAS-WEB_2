@@ -1,0 +1,18 @@
+======================================
+INSTALATION GUIDE
+======================================
+
+- COPY & PASTE this project into server directory
+	if using xampp copy & paste in htdocs folder
+
+- configuratin base url
+	goto and open file application/config/config.php
+	please change base url spesified your base url
+	example : http://localhost/your_folder_project/
+
+- configuratin databse
+	goto and open file application/config/databse.php
+	please change this:
+		username => your username mysql server
+		password => your password mysql server
+		database => your databse name in mysql server
